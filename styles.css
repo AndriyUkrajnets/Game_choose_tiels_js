@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border: 2px, 2px, 2px, 2px;
+  src: 'Images/guess.png';
+}
+
+h1 {
+  font-family: calibri;
+  color: #8B008B;
+}
+
+h2 {
+  color: #FF8C00;
+  font-family: calibri;
+}
+
+p {
+  font-family: calibri;
+  color: #8B008B;
+  size: 14px;
+  font-weight: bold;
+  display: inline;
+  padding: 20px;
+}
